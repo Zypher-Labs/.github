@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="Byteflips Logo" width="200" />
+  <img src="banner.gif" alt="Zypher Logo" width="200" />
 </div>
 
 # 🌟 **Zypher-Labs** 🚀  
