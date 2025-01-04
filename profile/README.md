@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.gif" alt="Zypher Logo" width="200" />
+  <img src="banner.gif" alt="Zypher Logo" />
 </div>
 
 # 🌟 **Zypher-Labs** 🚀  
@@ -54,9 +54,8 @@ Cloud      : AWS, Firebase, Google Cloud
 
 ## 🌐 Connect With Us  
 
-📬 **Email**: [hello@byteflips.com](mailto:hello@byteflips.com)  
-🌍 **Website**: [byteflips.com](https://byteflips.com)  
-🐦 **Twitter**: [@Byteflips](https://twitter.com/Byteflips)  
+📬 **Discord**: [Join Server](Discord.gg)  
+🌍 **Website**: [hub.Zypher.us.kg](https://hub.Zypher.us.kg)
 ---
 ## 🧑‍💻 **Most Used Languages**  
 
