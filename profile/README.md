@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/byteflips/branding/main/byteflips-logo.gif" alt="Byteflips Logo" width="200" />
+  <img src="" alt="Byteflips Logo" width="200" />
 </div>
 
-# 🌟 **Byteflips** 🚀  
+# 🌟 **Zypher-Labs** 🚀  
 
 **Flipping ideas into reality, one byte at a time.**  
 We are a forward-thinking tech organization dedicated to creating innovative solutions, empowering developers, and simplifying complex workflows.  
@@ -10,7 +10,7 @@ We are a forward-thinking tech organization dedicated to creating innovative sol
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FFD700&width=435&lines=Innovate.+Develop.+Empower.;Building+the+Future+of+Technology.;Together%2C+We+Flip+Possibilities.+" alt="Typing Animation" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=D2F707&center=true&width=435&lines=Zypher+Labs" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -33,10 +33,12 @@ To **transform innovation into impact** by developing cutting-edge tools, foster
 
 | Project Name         | Description                           | Status 🚦 |
 |----------------------|---------------------------------------|----------|
-| **Arolax-panel**        | All-in-one server management solution | ⚙️ In development |
+| **Zypher-panel**        | All-in-one server management solution | ⚙️ In development |
+| **Zypher-Client**        | Minecraft PvP Client | ⚙️ Discontinued |
+| **Skyport-Reimagened**        | Skyport Next-Gen | ⚙️ In development |
 
 
-Explore more in our **[repositories](https://github.com/byteflips)**.
+Explore more in our **[repositories](https://github.com/Zypher-Labs)**.
 
 ---
 
@@ -64,9 +66,9 @@ Here are the two languages we use most frequently in our projects:
 - ![EJS](https://img.shields.io/badge/EJS-%23A91A3B?style=flat-square&logo=ejs&logoColor=white): A powerful templating engine for embedding JavaScript into HTML, enabling dynamic page rendering with Express.js.
 ---
 
-> **"The future isn't written in stone; it's flipped into reality—one byte at a time."**  
-> — **Byteflips Team**
+> **"At Zypher Labs, we don't just chase innovation, we engineer it."**  
+> — **Zypher-labs Team**
 
 ---
 
-Crafted with ❤️ by the Byteflips Legends ✨
+Crafted with ❤️ by the Zypher-Labs Legends ✨
