@@ -21,7 +21,7 @@ To **transform innovation into impact** by developing cutting-edge tools, foster
 
 ---
 
-## 🏆 **Why Byteflips?**  
+## 🏆 **Why Zypher-Labs?**  
 
 - 🌟 **Golden Standards**: Excellence in everything we build.  
 - ⚡ **Innovative Culture**: Passionate about emerging technologies.  
